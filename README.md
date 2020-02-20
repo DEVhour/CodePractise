@@ -1,1 +1,2 @@
-# CodePractise Repo contains coding problems of various languages
+# CodePractise 
+* Repo contains coding problems of various languages
